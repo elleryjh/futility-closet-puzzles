@@ -34,6 +34,74 @@ Podcast.
 Solutions (and follow-up with spoilers) are hidden behind a fold; you can click
 to reveal them.
 
+## Episode 63 - The Rainmaker
+
+- Sharon reading, Greg guessing
+- Segment begins at 22:08
+- Puzzle begins 22:27
+- Source: Listener Hanno Zulla
+- Based on a true story
+
+A robber enters a jewelry shop at night. He is recorded on surveillance video 
+as he steals some jewelry.
+
+The next day, the police find a glove that he accidentally left behind at the 
+scene of the crime. The traces of his DNA in that glove are tested and attributed 
+to him. The robber is swiftly found and arrested.
+
+However, he cannot be brought to court for the crime and the police have to let 
+him go. Why?
+
+<div id="sol-59-1" class="fold" markdown="1">
+### Solution
+While the solution "he has an identical twin brother" may be a very old cliche 
+  for this style of puzzles, this one has the benefit of being a true story. 
+  The twist is that DNA tests, at least until very recently, cannot properly 
+  attribute DNA traces to twins. However, an accused cannot be brought to court 
+  if police are not able to prove that it was actually him and not the twin who 
+  committed the crime.
+
+For this puzzle, the surveillance video was added to make it more puzzling. In 
+the true event, the robber was wearing a mask, so the surveillance video wasn't 
+that helpful after all, and the police's case stood on DNA traces only.
+
+Hanno's case occurred in Germany, but there have been similar cases in the UK 
+and in the US where there was only DNA evidence against the suspect, and that 
+can't distinguish which identical twin it could be.
+
+In 2010, the Daily Express wrote that in the UK, there are between three and 
+ten criminal cases a year involving identical twins who make up 0.4% of the 
+population.
+
+Basically, they have to find some other evidence against the individual, such 
+as fingerprints, which apparently do differ between twins, if that isn't weird 
+enough. Or they need some specific identifier. Like, there was a case in Boston 
+where one witness happened to notice a tattoo on one of the guys, so that made 
+the difference.
+</div>
+
+
+- Sharon reading, Greg guessing
+- Segment begins at 26:10
+- Puzzle begins 26:24
+- Source: Edward Harshman's Fantastic Lateral Thinking Puzzles
+
+As his confederates forcibly restrained the homeowners, a man broke into a house,
+smashed windows, and took what was most important to them. When he came out, he
+was met by police officers and upset homeowners, so he quickly handed over what 
+he had taken. The homeowners did not prosecute the man or his confederates for 
+their actions, and the officers did not ask them to.
+
+<div id="sol-59-1" class="fold" markdown="1">
+### Solution
+The house was on fire.
+
+The confederates are firefighters, and they restrain the parents who are desperate 
+to get into the house to get the child. And so he breaks into the house to get the 
+child and brings it out and is immediately confronted by the police but hands the 
+child over to his parents.
+</div>
+
 
 ## Episode 62 - Marconi Catches a Murderer
 
