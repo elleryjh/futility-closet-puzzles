@@ -35,6 +35,36 @@ Solutions (and follow-up with spoilers) are hidden behind a fold; you can click
 to reveal them.
 
 
+## Episode 61 - The Strange Custom of Garden Hermits
+
+- Sharon reading, Greg guessing
+- Segment begins at 28:40
+- Puzzle begins 28:55
+- Source: Edward Harshman's Fantastic Lateral Thinking Puzzles
+
+Muggsy and Butch hunched over a table in a dingy basement. They 
+drew floor plans of a bank and sketched its burglar alarm. They 
+heard a car approach.
+
+Butch got up, looked out the dirty window, and recognized the car 
+as belonging to an off-duty police officer. The car stopped and the 
+officer got out. Shortly there came a knock at the door.
+
+Hello, Rocky, Muggsy greeted the officer. Rocky surveyed the plans, 
+gave them a few more ideas on how to break into the bank, and wished 
+them luck. There's $5,000 in it for you if this works, Muggsy promised 
+him.
+
+Their work paid off handsomely soon after, and sure enough, Muggsy 
+gave Rocky the $5,000. But no crime was committed. Explain.
+
+<div id="sol-59-1" class="fold" markdown="1">
+### Solution
+The break-in is fiction. They're planning to write a novel about a 
+break-in to a bank. It says how to break into the bank, and then they 
+tell him that they'll pay him if the novel that they're writing succeeds.
+</div>
+
 ## Episode 60 - The Day They Hanged an Elephant
 
 - Greg reading, Sharon guessing
