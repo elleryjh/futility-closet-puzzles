@@ -35,6 +35,42 @@ Solutions (and follow-up with spoilers) are hidden behind a fold; you can click
 to reveal them.
 
 
+## Episode 60 - The Day They Hanged an Elephant
+
+- Greg reading, Sharon guessing
+- Segment begins at 19:25
+- Puzzle begins 19:40, duration 0:52
+- Source: Listener Paul Sophocleous
+- Based on fact
+
+At many of London's "Tube" train stations there are two escalators going up 
+from the platform, but only one escalator going down? Why is this?
+
+<div id="sol-59-1" class="fold" markdown="1">
+### Solution
+When the train shows up you have a whole lot of people who get off all at 
+the same time and they all need to get up to the street at the same time. 
+Whereas people arrive at all different times so you only need one escalator 
+going down. 
+</div>
+
+- Greg reading, Sharon guessing
+- Segment begins at 20:45
+- Puzzle begins 20:45
+- Source: Kyle Hendrickson's 1998 book, Mental Fitness Puzzles
+
+After buying a new oven, Gerald sold his old one to a stranger. Although the
+stranger offered to pay cash, Gerald nonetheless had a very good reason for 
+insisting that the transaction take place at a bank. Rather than be offended,
+the stranger clearly understood the reason for this unusual request. Why did 
+Gerald make this demand?
+
+<div id="sol-59-1" class="fold" markdown="1">
+### Solution
+Gerald is blind and fears he would be shortchanged by the purchaser if the 
+bank teller would ensure the proper amount is paid. 
+</div>
+
 ## Episode 59 - The Wizard of Mauritius
 
 - Sharon reading, Greg guessing
