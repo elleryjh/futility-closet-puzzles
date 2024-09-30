@@ -35,6 +35,38 @@ Solutions (and follow-up with spoilers) are hidden behind a fold; you can click
 to reveal them.
 
 
+## Episode 62 - Marconi Catches a Murderer
+
+- Greg reading, Sharon guessing
+- Segment begins at 24:15
+- Puzzle begins 24:33
+- Source: Car Talk (2010) sent in by originally by George Parks
+
+My son sat patiently in his seat and waited for service.
+
+After a while, an attractive looking young lady came over and asked if 
+he would like something to drink. He replied that he'd like a beer. He 
+was youthful in feature and appearance, so she asked him to produce an ID.
+
+The woman checks his ID and, with no problem, serves him his beer. Four 
+hours later, he's in the same chair and asks the same server for another 
+beer. To his surprise, the server again asks for his ID.
+
+Not a surprise, she forgot who he was. He produces the same ID. The server 
+tells him that, unfortunately, she cannot serve him alcohol at this time, 
+as it would be illegal for her to do so.
+
+What's going on here?
+
+<div id="sol-59-1" class="fold" markdown="1">
+### Solution
+George's son was returning from a study trip in China. He was flying from 
+China to America and when he got on the plane it was his 21st birthday.
+
+Four hours later when the plane had crossed the international dateline, 
+George's son lost the day. He was only 20.
+</div>
+
 ## Episode 61 - The Strange Custom of Garden Hermits
 
 - Sharon reading, Greg guessing
