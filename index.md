@@ -319,6 +319,27 @@ Template:
 </details>
 -->
 
+ ## Episode 67: Composing Beyond the Grave
+
+Template:
+- Greg reading, Sharon guessing
+- Segment begins at 29:30
+- Puzzle begins 30:00
+- Source: Irwin Brecker's 2010 book, Lateral Thinking Puzzles
+- Based on a true story
+
+Both Brian and Bill were going from Marble Arch to Victoria Station. Brian was driving 
+at normal speed, while Bill started on foot.
+
+Traffic was light, and although Bill ran part of the way, and Brian reached an average 
+speed of 25 miles per hour, both arrived at Victoria Station at the same time. How was 
+this possible?
+
+<details><summary><h3>Solution</h3></summary>
+Brian was a bus driver and Bill was running to catch the bus, which he did, so he started on foot.
+</details>
+
+
 ## Episode 67: Composing Beyond the Grave
 - Sharon reading, Greg guessing
 - Segment begins at 20:42
