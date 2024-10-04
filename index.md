@@ -312,8 +312,32 @@ Template:
 - Sharon reading, Greg guessing
 - Segment begins at 
 - Puzzle begins 
+- Source: 
 - Based on a true story
+
+<details><summary><h3>Solution</h3></summary>
+</details>
 -->
+
+## Episode 67: Composing Beyond the Grave
+- Sharon reading, Greg guessing
+- Segment begins at 20:42
+- Puzzle begins 21:00
+- Source: Jed's List of Situation Puzzles
+
+A man takes a two week cruise to Mexico from the US.
+
+Shortly after he gets back, he takes a three day cruise which doesn't stop at 
+any other ports. He stays in his cabin all the time on both cruises. As a result, 
+he makes $250,000.
+
+<details><summary><h3>Solution</h3></summary>
+The man is a smuggler. On the first cruise, he receives contraband in Mexico, and 
+hides it aboard the ship. He has to pass through customs when returning to the U.S.
+
+He takes another cruise on the same ship, retreiving the contraband, and takes it
+freely when disembarking because there is no customs requirement on the second cruise.
+</details>
 
 ## Episode 66 - Eighteen Holes in Vietnam
 
