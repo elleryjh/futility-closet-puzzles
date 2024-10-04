@@ -34,6 +34,44 @@ Podcast.
 Solutions (and follow-up with spoilers) are hidden behind a fold; you can click
 to reveal them.
 
+## Episode 64 - Murder at the Priory
+
+- Greg reading, Sharon guessing
+- Segment begins at 24:40
+- Puzzle begins 24:58
+- Source: Listener Sam B
+- Based on a true story
+
+A man is found shot dead in an open field. No gun is found near him, but police 
+are able to determine that he was not murdered.
+
+<div id="sol-59-1" class="fold" markdown="1">
+### Solution
+In 2008 a man who tried to fake his own kidnap and murder was found out when he failed 
+to attach enough helium balloons to the gun he used to shoot himself with. Copying an 
+episode of Hit TV show "CSI: Crime Scene Investigation", Thomas Hickman tied helium 
+balloons to the gun so it would float away and look like someone else had done it.
+
+The Red Lobster Seafood Restaurant chain executive drove from Texas into New Mexico 
+and put gaffer tape over his mouth before shooting himself in the head. But the 
+giveaway to his suicide was the bundle of white helium balloons with a gun still 
+attached found snagged on bushes and cactus near Mr. Hickman's body. The grip of 
+the Smith and Wesson air weight had been removed and the trigger guard ground down.
+
+Lieutenant Rick Anglotta of New Mexico State Police said he took as much weight off 
+as he could to make it as light as possible. The gun and balloons led police from 
+that field back to Mr. Hickman's house in Dallas. This was apparently an elaborate 
+attempt to make it look like he was murdered, Lieutenant Anglotta said.
+
+Investigators were able to show that he purchased the balloons and purchased the gun. 
+We also found shavings from the gun in his garage. The investigator obtained a copy 
+of an October 2003 episode of the television drama "CSI: Crime Scene Investigation" 
+and noticed that there were several similarities between that show and Mr. Hickman's 
+case.
+
+Mr. Hickman had recently lost money on the stock exchange. He leaves a wife and son.
+</div>
+
 ## Episode 63 - The Rainmaker
 
 - Sharon reading, Greg guessing
