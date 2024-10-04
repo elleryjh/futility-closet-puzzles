@@ -336,7 +336,6 @@ Brian was a bus driver and Bill was running to catch the bus, which he did, so h
 started on foot.
 </details>
 
-Template:
 - Greg reading, Sharon guessing
 - Puzzle begins 31:23
 - Source: Kyle Hendrickson's 1998 book, Mental Fitness Puzzles
