@@ -304,8 +304,6 @@ TODO Titles:
  ## Episode 71: Godless in Missouri
  ## Episode 70: Sunk by a Whale
  ## Episode 69: Lateral Thinking Puzzles
- ## Episode 68: The Niihau Incident
- ## Episode 67: Composing Beyond the Grave
 
 Template:
 - Greg reading, Sharon guessing
@@ -319,14 +317,12 @@ Template:
 </details>
 -->
 
- ## Episode 67: Composing Beyond the Grave
+ ## Episode 68: The Niihau Incident
 
-Template:
 - Greg reading, Sharon guessing
 - Segment begins at 29:30
 - Puzzle begins 30:00
 - Source: Irwin Brecker's 2010 book, Lateral Thinking Puzzles
-- Based on a true story
 
 Both Brian and Bill were going from Marble Arch to Victoria Station. Brian was driving 
 at normal speed, while Bill started on foot.
@@ -336,7 +332,21 @@ speed of 25 miles per hour, both arrived at Victoria Station at the same time. H
 this possible?
 
 <details><summary><h3>Solution</h3></summary>
-Brian was a bus driver and Bill was running to catch the bus, which he did, so he started on foot.
+Brian was a bus driver and Bill was running to catch the bus, which he did, so he 
+started on foot.
+</details>
+
+Template:
+- Greg reading, Sharon guessing
+- Puzzle begins 31:23
+- Source: Kyle Hendrickson's 1998 book, Mental Fitness Puzzles
+
+One day Ted finds a solid gold letter opener along the side of a busy highway. Although he 
+is poor and would gladly pawn it for money, Ted knows that he will not be able to do so. Why?
+
+<details><summary><h3>Solution</h3></summary>
+Ted was working on a chain gang when he found the letter opener. He knew that he would be 
+ searched in the item confiscated before he was placed back in his prison cell.
 </details>
 
 
