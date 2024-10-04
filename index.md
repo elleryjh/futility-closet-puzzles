@@ -34,6 +34,34 @@ Podcast.
 Solutions (and follow-up with spoilers) are hidden behind a fold; you can click
 to reveal them.
 
+## Episode 65 - The Merchant Prince of Cornville
+
+- Sharon reading, Greg guessing
+- Segment begins at 27:35
+- Puzzle begins 27:47
+- Source: Listener Jackie Spear 
+- Based on a true story
+
+Private James Milroy served in the Union Army with the first New York independent battery, 
+light artillery, from 1861 until he mustered out in 1863. His unit operated various light 
+cannon to support cavalry and infantry units.
+
+However, although Private Milroy was strong in mind and body and knew how to handle the 
+cannon expertly, he never fired a single artillery weapon and refused to participate in 
+battle. In spite of that, his fellows held him in high regard. How did he get away with 
+refusing to fight?
+
+<div id="sol-59-1" class="fold" markdown="1">
+### Solution
+James Milroy was an army chaplain. The canon he handled expertly was the Bible.
+
+Civil war chaplains were usually assigned the rank of private but did not assume the 
+role of a soldier. They preached and prayed and counseled. They buried the dead, 
+delivered mail, and performed various non-fighting duties.
+
+They never fought.
+</div>
+
 ## Episode 64 - Murder at the Priory
 
 - Greg reading, Sharon guessing
