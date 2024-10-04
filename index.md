@@ -5,6 +5,315 @@ Podcast.
 
 Solutions (and follow-up with spoilers) are hidden behind a fold; you can click
 to reveal them.
+<!--
+TODO Titles:
+ ## Episode 365: Lateral Thinking Puzzles
+ ## Episode 364: Sidney Cotton’s Aerial Reconnaissance
+ ## Episode 363: The Lambeth Poisoner
+ ## Episode 362: The Leatherman
+ ## Episode 361: A Fight Over Nutmeg
+ ## Episode 360: Haggard’s Dream
+ ## Episode 359: Stranded in Shangri-La
+ ## Episode 358: The Radium Girls
+ ## Episode 357: Scenes From an Earthquake
+ ## Episode 356: A Strawberry’s Journey
+ ## Episode 355: The Auckland Islands Castaways
+ ## Episode 354: Falling Through a Thunderstorm
+ ## Episode 353: Lateral Thinking Puzzles
+ ## Episode 352: A Victorian Hippopotamus
+ ## Episode 351: Notes and Queries
+ ## Episode 350: Symmes’ Hole
+ ## Episode 349: The National Hotel Disease
+ ## Episode 348: Who Killed the Red Baron?
+ ## Episode 347: The Cottingley Fairies
+ ## Episode 346: A Desperate Winter in Antarctica
+ ## Episode 345: Climbing Mont Blanc
+ ## Episode 344: Martin Couney’s Incubator Babies
+ ## Episode 343: Operation Cowboy
+ ## Episode 342: A Slave Sues for Freedom
+ ## Episode 341: An Overlooked Bacteriologist
+ ## Episode 340: A Vanished Physicist
+ ## Episode 339: The Baron of Arizona
+ ## Episode 338: A Point of Law
+ ## Episode 337: Lost in a Daydream
+ ## Episode 336: A Gruesome Cure for Consumption
+ ## Episode 335: Transporting Obelisks
+ ## Episode 334: Eugene Bullard
+ ## Episode 333: Stranded in the Kimberley
+ ## Episode 332: Princess Caraboo
+ ## Episode 331: The Starvation Doctor
+ ## Episode 330: The Abernathy Boys
+ ## Episode 329: The Cock Lane Ghost
+ ## Episode 328: A Canine Prisoner of War
+ ## Episode 327: The Misplaced Tourist
+ ## Episode 326: The Recluse of Herald Square
+ ## Episode 325: Lateral Thinking Puzzles
+ ## Episode 324: The Bizarre Death of Alfred Loewenstein
+ ## Episode 323: The Blind Traveler
+ ## Episode 322: Joseph Medicine Crow
+ ## Episode 321: The Calculating Boy
+ ## Episode 320: John Hornby and the Barren Lands
+ ## Episode 319: Friedrich Kellner’s Opposition
+ ## Episode 318: Peace Pilgrim
+ ## Episode 317: Lateral Thinking Puzzles
+ ## Episode 316: A Malaysian Mystery
+ ## Episode 315: Beryl Markham’s Unconventional Life
+ ## Episode 314: The Taliesin Murders
+ ## Episode 313: The Santa Claus Association
+ ## Episode 312: The Last of the Yahi
+ ## Episode 311: A Disputed Russian Princess
+ ## Episode 310: The Case of Bobby Dunbar
+ ## Episode 309: The ‘Grain of Salt’ Episode
+ ## Episode 308: Nicholas Winton and the Czech Kindertransport
+ ## Episode 307: The Cyprus Mutiny
+ ## Episode 306: The Inventor Who Disappeared
+ ## Episode 305: Cast Away in the New World
+ ## Episode 304: The Dog Who Joined the Navy
+ ## Episode 303: Camp Stark
+ ## Episode 302: The Galápagos Affair
+ ## Episode 301: Tschiffely’s Ride
+ ## Episode 300: Lateral Thinking Puzzles
+ ## Episode 299: Ursula Graham Bower and the Nagas
+ ## Episode 298: The Theft of the Mona Lisa
+ ## Episode 297: A Sinto Boxer in Nazi Germany
+ ## Episode 296: The Little Giants
+ ## Episode 295: An Unlikely Attempt on Everest
+ ## Episode 294: ‘The Murder Trial of the Century’
+ ## Episode 293: Lennie Gwyther
+ ## Episode 292: Fordlandia
+ ## Episode 291: Half-Safe
+ ## Episode 290: Voss’ Last Stand
+ ## Episode 289: The Johnstown Flood
+ ## Episode 288: Death at the Lane Cove River
+ ## Episode 287: The Public Universal Friend
+ ## Episode 286: If Day
+ ## Episode 285: The Grasshopper Plagues
+ ## Episode 284: The Red Barn
+ ## Episode 283: The Hermit of Suwarrow
+ ## Episode 282: Helga Estby’s Walk
+ ## Episode 281: Grey Owl
+ ## Episode 280: Leaving St. Kilda
+ ## Episode 279: The Champawat Tiger
+ ## Episode 278: Lateral Thinking Puzzles
+ ## Episode 277: The Mad Trapper of Rat River
+ ## Episode 276: An Unlikely Confederate Spy
+ ## Episode 275: A Kidnapped Painting
+ ## Episode 274: Death in a Nutshell
+ ## Episode 273: Alice Ramsey’s Historic Drive
+ ## Episode 272: The Cannibal Convict
+ ## Episode 271: The Fraudulent Life of Cassie Chadwick
+ ## Episode 270: Kidnapped by North Korea
+ ## Episode 269: The Sack of Baltimore
+ ## Episode 268: The Great Impostor
+ ## Episode 267: The Murchison Murders
+ ## Episode 266: Lateral Thinking Puzzles
+ ## Episode 265: The Great Hedge of India
+ ## Episode 264: Jack Renton and the Saltwater People
+ ## Episode 263: Memories of Proust
+ ## Episode 262: A Modern-Day Thoreau
+ ## Episode 261: The Murder of Lord William Russell
+ ## Episode 260: The Rugged Road
+ ## Episode 259: The Astor Place Riot
+ ## Episode 258: The First Great Train Robbery
+ ## Episode 257: The Sledge Patrol
+ ## Episode 256: Lasseter’s Reef
+ ## Episode 255: Death on the Ice
+ ## Episode 254: The Porthole Murder
+ ## Episode 253: The Dame of Sark
+ ## Episode 252: The Wild Boy of Aveyron
+ ## Episode 251: Joseph Palmer’s Beard
+ ## Episode 250: The General Slocum
+ ## Episode 249: The Robbers Cave Experiment
+ ## Episode 248: Smoky the War Dog
+ ## Episode 247: Lateral Thinking Puzzles
+ ## Episode 246: Gene Tierney’s Secret Heartbreak
+ ## Episode 245: Jeanne Baret
+ ## Episode 244: The Women’s Protest
+ ## Episode 243: The Peshtigo Fire
+ ## Episode 242: The Cardiff Giant
+ ## Episode 241: A Case of Scientific Self-Deception
+ ## Episode 240: The Shark Papers
+ ## Episode 239: The Man-Eaters of Tsavo
+ ## Episode 238: The Plight of Mary Ellen Wilson
+ ## Episode 237: The Baseball Spy
+ ## Episode 236: The Last Lap
+ ## Episode 235: Leon Festinger and the Alien Apocalypse
+ ## Episode 234: The Dig Tree
+ ## Episode 233: Flight to Freedom
+ ## Episode 232: The Indomitable Spirit of Douglas Bader
+ ## Episode 231: The Halifax Explosion
+ ## Episode 230: Lateral Thinking Puzzles
+ ## Episode 229: The Stone of Destiny
+ ## Episode 228: The Children’s Champion
+ ## Episode 227: The Christmas Tree Ship
+ ## Episode 226: The Great Match Race
+ ## Episode 225: The Great Stork Derby
+ ## Episode 224: Lady Death
+ ## Episode 223: The Prince of Forgers
+ ## Episode 222: The Year Without a Summer
+ ## Episode 221: The Mystery Man of Essex County
+ ## Episode 220: The Old Hero of Gettysburg
+ ## Episode 219: The Greenbrier Ghost
+ ## Episode 218: Lost in the Amazon
+ ## Episode 217: The Bone Wars
+ ## Episode 216: The Tromelin Island Castaways
+ ## Episode 215: The Lieutenant Nun
+ ## Episode 214: The Poison Squad
+ ## Episode 213: Grover Cleveland’s Secret Surgery
+ ## Episode 212: The Lost Treasure of Cocos Island
+ ## Episode 211: Cast Away on an Ice Floe
+ ## Episode 210: Lateral Thinking Puzzles
+ ## Episode 209: Lost Off Newfoundland
+ ## Episode 208: Giving Birth to Rabbits
+ ## Episode 207: The Bluebelle’s Last Voyage
+ ## Episode 206: The Sky and the Sea
+ ## Episode 205: The White Mouse
+ ## Episode 204: Mary Anning’s Fossils
+ ## Episode 203: Notes and Queries
+ ## Episode 202: The Rosenhan Experiment
+ ## Episode 201: The Gardner Heist
+ ## Episode 200: Lateral Thinking Puzzles
+ ## Episode 199: The Mystery of the Carroll A. Deering
+ ## Episode 198: The Man Who Wouldn’t Die
+ ## Episode 197: Alone Across the Outback
+ ## Episode 196: The Long Way Home
+ ## Episode 195: A Case of Musical Plagiarism
+ ## Episode 194: The Double Life of Clarence King
+ ## Episode 193: The Collyer Brothers
+ ## Episode 192: The Winchester Diver
+ ## Episode 191: The Longest Flight
+ ## Episode 190: Mary Patten and the Neptune’s Car
+ ## Episode 189: The “Wild White Man”
+ ## Episode 188: The Bat Bomb
+ ## Episode 187: A Human Being in the Bronx Zoo
+ ## Episode 186: The Children’s Blizzard
+ ## Episode 185: The Man From Formosa
+ ## Episode 184: Lateral Thinking Puzzles
+ ## Episode 183: An Everest Mystery
+ ## Episode 182: The Compulsive Wanderer
+ ## Episode 181: Operation Gunnerside
+ ## Episode 180: An Academic Impostor
+ ## Episode 179: Two Vanished Young Writers
+ ## Episode 178: Lateral Thinking Puzzles
+ ## Episode 177: Averting a Catastrophe in Manhattan
+ ## Episode 176: The Bear That Inspired Winnie-the-Pooh
+ ## Episode 175: The Lone Woman of San Nicolas Island
+ ## Episode 174: Cracking the Nazi Code
+ ## Episode 173: The Worst Journey in the World
+ ## Episode 172: An American in Feudal Japan
+ ## Episode 171: The Emperor of the United States
+ ## Episode 170: The Mechanical Turk
+ ## Episode 169: John Harrison and the Problem of Longitude
+ ## Episode 168: The Destruction of the Doves Type
+ ## Episode 167: A Manhattan Murder Mystery
+ ## Episode 166: A Dangerous Voyage
+ ## Episode 165: A Case of Mistaken Identity
+ ## Episode 164: Vigil on the Ice
+ ## Episode 163: Enslaved in the Sahara
+ ## Episode 162: John Muir and Stickeen
+ ## Episode 161: The Girl Who Fell From the Sky
+ ## Episode 160: The Birmingham Sewer Lion
+ ## Episode 159: The Mozart of Mathematics
+ ## Episode 158: The Mistress of Murder Farm
+ ## Episode 157: The Brutal History of Batavia’s Graveyard
+ ## Episode 156: The Most Dedicated Soldier
+ ## Episode 155: The Giraffe Who Walked to Paris
+ ## Episode 154: Spared by a Volcano
+ ## Episode 153: A Victorian Stalker
+ ## Episode 152: Lateral Thinking Puzzles
+ ## Episode 151: Double-Crossing the Nazis
+ ## Episode 150: The Prince of Nowhere
+ ## Episode 149: The North Pond Hermit
+ ## Episode 148: The Perfect Murder
+ ## Episode 147: The Call of Mount Kenya
+ ## Episode 146: Alone in the Wilderness
+ ## Episode 145: The Pied Piper of Saipan
+ ## Episode 144: The Murder Castle
+ ## Episode 143: The Conscience Fund
+ ## Episode 142: Fingerprints and Polygraphs
+ ## Episode 141: Abducted by Indians, a Captive of Whites
+ ## Episode 140: Ramanujan
+ ## Episode 139: The Painter’s Revenge
+ ## Episode 138: Life in a Cupboard
+ ## Episode 137: The Mystery of Fiona Macleod
+ ## Episode 136: The Boston Molasses Disaster
+ ## Episode 135: Lateral Thinking Puzzles
+ ## Episode 134: The Christmas Truce
+ ## Episode 133: Notes and Queries
+ ## Episode 132: The Mad Gasser of Mattoon
+ ## Episode 131: Escape From Libby Prison
+ ## Episode 130: The Unlikely Ultramarathoner
+ ## Episode 129: The Voynich Manuscript
+ ## Episode 128: The Battle for Castle Itter
+ ## Episode 127: Rowing Across the Atlantic
+ ## Episode 126: The Great Australian Poetry Hoax
+ ## Episode 125: The Campden Wonder
+ ## Episode 124: D.B. Cooper
+ ## Episode 123: Washington D.C.’s Hidden Tunnels
+ ## Episode 122: The Bear Who Went to War
+ ## Episode 121: Starving for Science
+ ## Episode 120: The Barnes Mystery
+ ## Episode 119: Lost in the Taiga
+ ## Episode 118: The Restless Corpse of Elmer McCurdy
+ ## Episode 117: The Road to En-dor
+ ## Episode 116: Notes and Queries
+ ## Episode 115: Gettysburg’s Unknown Soldier
+ ## Episode 114: The Desperation of Donald Crowhurst
+ ## Episode 113: The Battle Over Mother’s Day
+ ## Episode 112: The Disappearance of Michael Rockefeller
+ ## Episode 111: Japanese Fire Balloons
+ ## Episode 110: The Brooklyn Chameleon
+ ## Episode 109: Trapped in a Cave
+ ## Episode 108: The Greenwich Time Lady
+ ## Episode 107: Arthur Nash and the Golden Rule
+ ## Episode 106: The Popgun War
+ ## Episode 105: Surviving on Seawater
+ ## Episode 104: The Harvey’s Casino Bombing
+ ## Episode 103: Legislating Pi
+ ## Episode 102: The Bunion Derby
+ ## Episode 101: Jerome
+ ## Episode 100: Lateral Thinking Puzzles
+ ## Episode 99: Notes and Queries
+ ## Episode 98: The St. Albans Raid
+ ## Episode 97: The Villisca Ax Murders
+ ## Episode 96: The Abduction of Edgardo Mortara
+ ## Episode 95: A New Day at Charleston
+ ## Episode 94: The Living Unknown Soldier
+ ## Episode 93: The Old Flying Days
+ ## Episode 92: The Forgotten Amendment
+ ## Episode 91: Voyage of the Damned
+ ## Episode 90: The Candy Bar War
+ ## Episode 89: An African From Baltimore
+ ## Episode 88: Mrs. Wilkinson and the Lyrebird
+ ## Episode 87: A Sleuthing Cabbie, Edward VI’s Homework, and a Self-Aware Crow
+ ## Episode 86: Lateral Thinking Puzzles
+ ## Episode 85: Raising Chicago
+ ## Episode 84: The Man Who Never Was
+ ## Episode 83: Nuclear Close Calls
+ ## Episode 82: Stealing Abe Lincoln
+ ## Episode 81: The Typhus Hoax
+ ## Episode 80: ‘Black Like Me’: Race Realities Under Jim Crow
+ ## Episode 79: One Square Inch of the Yukon
+ ## Episode 78: Snowshoe Thompson
+ ## Episode 77: The Sourdough Expedition
+ ## Episode 76: Get Out of Jail Free
+ ## Episode 75: The Sea Devil
+ ## Episode 74: Charley Parkhurst’s Secret
+ ## Episode 73: The Tichborne Claimant
+ ## Episode 72: The Strange Misadventures of Famous Corpses
+ ## Episode 71: Godless in Missouri
+ ## Episode 70: Sunk by a Whale
+ ## Episode 69: Lateral Thinking Puzzles
+ ## Episode 68: The Niihau Incident
+ ## Episode 67: Composing Beyond the Grave
+
+Template:
+- Greg reading, Sharon guessing
+- Sharon reading, Greg guessing
+- Segment begins at 
+- Puzzle begins 
+- Based on a true story
+-->
 
 ## Episode 66 - Eighteen Holes in Vietnam
 
