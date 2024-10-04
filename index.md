@@ -6,6 +6,36 @@ Podcast.
 Solutions (and follow-up with spoilers) are hidden behind a fold; you can click
 to reveal them.
 
+## Episode 66 - Eighteen Holes in Vietnam
+
+- Greg reading, Sharon guessing
+- Segment begins at 24:40
+- Puzzle begins 27:47
+- Source: Listener Mike Martin
+- Based on a true story
+
+A military force knowingly bombs a location where they know that friends of theirs are 
+living. They thought this would have a favorable outcome for the people living there. Why?
+
+<details><summary><h3>Solution</h3></summary>
+In 1943, Germany had invaded France and was occupying it.
+
+The French Resistance had been rounded up and locked up in a prison in Amiens. They were 
+beginning to execute them there and the Allies got word of this. The Allies got word that 
+more than 100 of these French Resistance fighters were going to be executed in the prison 
+in February 1944, so they arranged for nine British bombers to go in low and bomb the walls 
+of the prison so that they could escape. This is called Operation Jericho.
+
+They succeeded in what they set out to do. They reached the prison at noon on the day before 
+the execution and bombed the guard house and the prison walls. There had been 717 prisoners there.
+
+About 250 of them escaped, but a lot of them, more than two-thirds of them, were then recaptured.
+
+So in the end, only about 10% of the allied prisoners survived the bombing and got away. But 
+you know, that was the whole point of the operation. Interestingly, there was a video, a film 
+camera, aboard one of the planes, so you can actually watch this happen.
+</details>
+
 ## Episode 65 - The Merchant Prince of Cornville
 
 - Sharon reading, Greg guessing
